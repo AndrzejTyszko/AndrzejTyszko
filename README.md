@@ -48,8 +48,6 @@ I am an **ERP System Specialist and Data Analyst** with a strong background in i
   - Collaborating with departments to ensure smooth deployment and functionality validation.
   - Streamlining workflows using macros in Excel.
 
-- **Repair Technician** | Medicalgorithmics S.A. | *2018 - 2021*
-
 ## 🌟 Education
 
 - **University of Gdańsk** | *2022 - Present*  
