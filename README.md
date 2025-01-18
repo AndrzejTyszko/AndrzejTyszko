@@ -5,10 +5,9 @@ I am an **ERP System Specialist and Data Analyst** with a strong background in i
 ## 🚀 About Me
 
 - **💼 Experience:** 
-  - **ERP Administration:** Managing user access, permissions, and environment settings.
-  - **ERP Development:** Customizing and creating new functionalities, generating reports in Crystal Reports, and preparing detailed analytics with Power BI.
-  - **Programming:** Enhancing internal MES applications with **C# ASP.NET**, **XML**, and **SQL**.
-  - **Collaboration:** Communicating across finance, logistics, sales, and production teams to gather requirements and validate solutions.
+  - **ERP Administration:**
+  - **ERP Development:**
+  - **Programming:** 
 
 - **🎓 Education:** 
   - Currently pursuing a degree in **Computer Science and Econometrics** at the University of Gdańsk, specializing in IT applications in business.
@@ -38,12 +37,12 @@ I am an **ERP System Specialist and Data Analyst** with a strong background in i
 
 ## 🧑‍💻 Professional Experience
 
-- **ERP Specialist & Data Analyst** | Medicalgorithmics S.A. | *2023 - Present*  
+- **ERP Specialist & Data Analyst**
   - Administering the ERP system, training users, and creating documentation.
   - Enhancing system functionalities and integrating with internal MES applications.
   - Developing reports and dashboards with Crystal Reports and Power BI.
 
-- **Junior ERP Specialist** | Medicalgorithmics S.A. | *2021 - 2023*  
+- **Junior ERP Specialist** 
   - Assisting in ERP implementation, managing system integrations, and conducting testing.
   - Collaborating with departments to ensure smooth deployment and functionality validation.
   - Streamlining workflows using macros in Excel.
